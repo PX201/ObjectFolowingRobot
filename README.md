@@ -1,4 +1,4 @@
-# Human-Following and Remote-Controlled Robot  
+# Object-Following and Remote-Controlled Robot  
 
 ## Description  
 This project is a  robot that can switch between two modes:  
